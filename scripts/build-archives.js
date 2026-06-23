@@ -6,8 +6,8 @@
  * Usage : node scripts/build-archives.js
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'fs'
-import { join, relative, dirname, basename, extname, resolve } from 'path'
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync } from 'fs'
+import { join, relative, dirname, resolve } from 'path'
 import { fileURLToPath } from 'url'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -211,7 +211,7 @@ function cap(s) {
 }
 
 // ─── Template HTML WebGuinée ─────────────────────────────────────────────────
-function buildPage({ title, description, keywords, author, body, crumbs, relPath }) {
+function buildPage({ title, description, keywords, author, body, crumbs }) {
   const displayTitle = decodeEntities(title || 'Sans titre')
 
   const crumbHtml = crumbs.map((c, i) => {
@@ -347,7 +347,7 @@ ${author || description ? `
 }
 
 // ─── Page d'index de catégorie ───────────────────────────────────────────────
-function buildIndex({ category, label, entries }) {
+function buildIndex({ label, entries }) {
   const rows = entries.map(({ relPath, title, description, author }) => {
     const href  = `/archives/${relPath}`
     const short = decodeEntities(title.split('/').pop().split('—').pop().trim() || 'Sans titre')

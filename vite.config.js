@@ -1,8 +1,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { resolve, extname } from 'path'
+import { resolve, extname, dirname } from 'path'
+import { fileURLToPath } from 'url'
 import { existsSync, statSync, createReadStream } from 'fs'
 
+const __dirname = dirname(fileURLToPath(import.meta.url))
 const FUTTA_SITE = resolve(__dirname, '..', 'futta', 'webfuuta.site')
 
 const MIME = {
