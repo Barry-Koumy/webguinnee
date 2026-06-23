@@ -1,0 +1,134 @@
+{
+  "slug": "memoriam_album_album_b_album_b_pages",
+  "titre": "Album Familial B",
+  "auteur": "Album Familial B",
+  "rubrique": "Kompanya",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 20,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "1",
+      "file": "1.html",
+      "titre": "Album Familial B",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Neenan Kumba Wuuri — Neene Lella</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n   <tr>\n     <td></td>\n  <td><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous0.png\" alt=\"previous\" /></td>\n            <td><a href=\"#chap:2\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n           \n            <td></td>\n <td width=\"100%\"><strong>Neene Lella</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\"> \n    <img alt=\"Neene Lella\" src=\"/livres/memoriam_album_album_b_album_b_pages/1.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Neene Lella, la matriarche. 1900-1986?</span></p>"
+    },
+    {
+      "id": "2",
+      "file": "2.html",
+      "titre": "Album Familial B (2)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Neenan Kadidiatou et famille. 1957</h2>\n   <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n <tr>\n <td></td>\n            <td><a href=\"#chap:1\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:3\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n    <td></td>\n      <td width=\"100%\"><strong>Neenan Kadidiatou et famille. 1957</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\" > \n    <img alt=\"Neenan Kadidiatou et famille. 1957\" src=\"/livres/memoriam_album_album_b_album_b_pages/2.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Neenan Kadidiatou et famille. 1957<br />\n    Assises : Neene et Moodi Boubacar, Jan Kesso et Yaye Kesso, entre elles Bassirou<br />Debouts : Tierno Siradiou, Jan Safiatou, Mamadou Oury, feu Alfa Oumar Sow</span></p>"
+    },
+    {
+      "id": "3",
+      "file": "3.html",
+      "titre": "Album Familial B (3)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Jan Safiatou. 1957</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n  <tr>\n            <td></td>\n            <td><a href=\"#chap:2\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:4\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Jan Safiatou. 1957</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Safiatou Bah. 1957\" src=\"/livres/memoriam_album_album_b_album_b_pages/3.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Safiatou Bah. 1957</span></p>"
+    },
+    {
+      "id": "4",
+      "file": "4.html",
+      "titre": "Album Familial B (4)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Abdoulaye Bah Dalaba et famille</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">    \n        <tr>\n            <td></td>\n            <td><a href=\"#chap:3\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:5\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Abdoulaye Bah et famille</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\"> \n    <img alt=\"Feu Abdoulaye Bah, sa femme Safiatou et leur fille ainee Kadidiatou. Kindia 1957\" src=\"/livres/memoriam_album_album_b_album_b_pages/4.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Feu Abdoulaye Bah, sa femme Safiatou et leur fille aînée Kadidiatou. Kindia 1957</span></p>"
+    },
+    {
+      "id": "5",
+      "file": "5.html",
+      "titre": "Album Familial B (5)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Safiatou Bah et amies</h2>\n <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n        \n        <tr>\n            <td></td>\n            <td><a href=\"#chap:4\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:6\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Safiatou Bah et amies</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\"> \n    <img alt=\"Safiatou Bah et amies. Kindia. 1958\" src=\"/livres/memoriam_album_album_b_album_b_pages/5.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Safiatou Bah et amies. Kindia. 1958</span></p>"
+    },
+    {
+      "id": "6",
+      "file": "6.html",
+      "titre": "Album Familial B (6)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Mariama Kesso Bah et frères</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n    <tr>\n            <td></td>\n            <td><a href=\"#chap:5\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:7\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Mariama Kesso Bah et frères</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Mariama Kesso Bah et freres  en 1958\" src=\"/livres/memoriam_album_album_b_album_b_pages/6.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Mariama Kesso Bah et frères  en 1958<br />à gauche : Bassirou, à droite : Tierno Siradiou</span></p>"
+    },
+    {
+      "id": "7",
+      "file": "7.html",
+      "titre": "Album Familial B (7)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Neene Lella et famille</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n  <tr>\n            <td></td>\n            <td><a href=\"#chap:6\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:8\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Neene Lella et famille</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Neene Lella, Neene, Jan Safiatou, Kadidiatou 'Mama', Keso Dalen.  Mamoudou 'Maz' Dalen Diallo\" src=\"/livres/memoriam_album_album_b_album_b_pages/7.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Assises : Neene Lella, Neene, Jan Safiatou, Kadidiatou ‘Mama’, Keso Dalen<br />\n    debout : Mamoudou ‘Maz’ Dalen Diallo. 1985</span></p>"
+    },
+    {
+      "id": "8",
+      "file": "8.html",
+      "titre": "Album Familial B (8)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n  <h2>Rayhanatou Bah — Hadja Binta Bah — Kadidiatou Bah</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n   <tr>\n            <td></td>\n            <td><a href=\"#chap:7\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:9\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Rayhanatou Bah — Hadja Binta Bah — Kadidiatou Bah</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\"><img alt=\"Hajja Rayhanatou Bah, sa mere feue Hadja Binta\" src=\"/livres/memoriam_album_album_b_album_b_pages/8.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Hajja Rayhanatou Bah, sa mère feue Hadja Binta<br />\n    Kadidiatou ‘Mama’ Bah. Labé 1963</span></p>"
+    },
+    {
+      "id": "9",
+      "file": "9.html",
+      "titre": "Album Familial B (9)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Feu Abdoulaye Bah, sa fille aînée Kadidiatou et sa nièce Aissatou Diallo. 1968</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n  <tr>\n            <td></td>\n            <td><a href=\"#chap:8\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:10\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Feu Abdoulaye Bah, fille et nièce</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Feu Abdoulaye Bah, sa fille ainee Kadidiatou et sa niece Aissatou Diallo. 1968\" src=\"/livres/memoriam_album_album_b_album_b_pages/9.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Feu Abdoulaye Bah<br /> sa fille aînée Kadidiatou et sa nièce Aissatou Diallo. 1968</span></p>"
+    },
+    {
+      "id": "10",
+      "file": "10.html",
+      "titre": "Album Familial B (10)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Jaaja et famille</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n  <tr>\n            <td></td>\n            <td><a href=\"#chap:9\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:11\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Jaaja et famille</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Jan Kesso, son beau-frere feu Abdoulaye Bah\" src=\"/livres/memoriam_album_album_b_album_b_pages/10.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Debouts : Jan Kesso, son beau-frère feu Abdoulaye Bah<br /> Kadidiatou ‘Mama’, Aissatou Diallo<br />\n     Assis : feu Elhadj Hamidou Diallo</span></p>"
+    },
+    {
+      "id": "11",
+      "file": "11.html",
+      "titre": "Album Familial B (11)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Neenan Kadidiatou, fils et petites-filles. 1967</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n  <tr>\n            <td></td>\n            <td><a href=\"#chap:10\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:12\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Neenan Kadidiatou entourée de ses enfants et deux de ses petites-filles 1967</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Neenan Kadidiatou et famille. Labe 1967\" src=\"/livres/memoriam_album_album_b_album_b_pages/11.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Neenan Kadidiatou et famille. Labe 1967<br />\n    Debouts : Jan Kesso, Tierno Siradiou, Jan Safiatou, Aissatou Bah<br />\n    Assis : Neene tenant Aissatou Diallo, Bassirou</span></p>"
+    },
+    {
+      "id": "12",
+      "file": "12.html",
+      "titre": "Album Familial B (12)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Hadja Kesso et feu Elhadj Hamidou Diallo</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n   <tr>\n            <td></td>\n            <td><a href=\"#chap:11\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:13\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Hadja Kesso et feu Elhadj Hamidou Diallo</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Hadja Kesso et son mari feu Elhadj Hamidou Diallo\" src=\"/livres/memoriam_album_album_b_album_b_pages/12.jpg\" /><br />\n    <span class=\"notes\">Hadja Kesso et son mari feu Elhadj Hamidou Diallo. 1950s</span></p>"
+    },
+    {
+      "id": "13",
+      "file": "13.html",
+      "titre": "Album Familial B (13)",
+      "html": "<h1>webFuuta/Kompanya/Album familal B/Mmes. Kesso et Hawa Ly</h1>\n<hr />\n<h2>Mmes. Kesso et Hawa Ly</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n         \n        <tr>\n            <td></td>\n            <td><a href=\"#chap:12\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:14\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Mmes. Kesso et Hawa Ly</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Neene Lella\" src=\"/livres/memoriam_album_album_b_album_b_pages/13.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Mmes. Kesso et Hawa Ly</span></p>"
+    },
+    {
+      "id": "14",
+      "file": "14.html",
+      "titre": "Kadidiatou Salma",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Kadidiatou Salma</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n  <tr>\n            <td></td>\n            <td><a href=\"#chap:13\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:15\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Kadidiatou Salma</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Kadidiatou Salma\" src=\"/livres/memoriam_album_album_b_album_b_pages/14.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Kadidiatou Salma</span></p>"
+    },
+    {
+      "id": "15",
+      "file": "15.html",
+      "titre": "Album Familial B (14)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n <h2>Hajja Keso, Hajja Safiatou, Neenan Kadidiatou</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n   <tr>\n            <td></td>\n            <td><a href=\"#chap:14\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:16\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Hajja Keso, Hajja Safiatou, Neenan Kadidiatou</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\"><img alt=\"Hajja Keso, Hajja Safiatou, Neenan Kadidiatou\" src=\"/livres/memoriam_album_album_b_album_b_pages/15.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Hajja Keso, Hajja Safiatou, Neenan Kadidiatou</span></p>"
+    },
+    {
+      "id": "16",
+      "file": "16.html",
+      "titre": "Album Familial B (15)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Neene Hadja Safiatou, Mama, Keso Dalen</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n <tr>\n            <td></td>\n            <td><a href=\"#chap:15\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:17\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Neene Hadja Safiatou, Mama, Keso Dalen</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Neene Hadja Safiatou, Mama, Keso Dalen\" src=\"/livres/memoriam_album_album_b_album_b_pages/16.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Neene, Hadja Safiatou, Mama, Keso Dalen</span></p>"
+    },
+    {
+      "id": "17",
+      "file": "17.html",
+      "titre": "Album Familial B (16)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Kadiatu graduation day. June 2007</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n <tr>\n            <td></td>\n            <td><a href=\"#chap:16\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:18\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Kadiatu graduation day. June 2007</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Kadiatu graduation day. June 2007\" src=\"/livres/memoriam_album_album_b_album_b_pages/17.jpg\" border=\"1\"  /><br />\n    <span class=\"notes\">Kadiatu graduation day. June 2007</span></p>"
+    },
+    {
+      "id": "18",
+      "file": "18.html",
+      "titre": "Album Familial B (17)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B </h1>\n<hr />\n  <h2>Kadiatu Nyara Bah. Graduation Day. June 2007</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n   <tr>\n            <td></td>\n            <td><a href=\"#chap:17\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:19\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Kadiatu Nyara Bah. Graduation Day. June 2007</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\"><img alt=\"Kadiatu Nyara Bah. Graduation Day. June 2007\" src=\"/livres/memoriam_album_album_b_album_b_pages/18.jpg\" /><br />\n    <span class=\"notes\">Kadiatu Nyara Bah. Graduation Day. June 2007</span></p>"
+    },
+    {
+      "id": "19",
+      "file": "19.html",
+      "titre": "Album Familial B (18)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Alhajji Tierno Mamadou Kompanya</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n  <tr>\n            <td></td>\n            <td><a href=\"#chap:18\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><a href=\"#chap:20\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next1.png\" alt=\"next\" /></a></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Alhajji Tierno Mamadou Kompanya</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Alhajji Tierno Mamadou Kompanya\" src=\"/livres/memoriam_album_album_b_album_b_pages/19.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Alhajji Tierno Mamadou Kompanya</span></p>"
+    },
+    {
+      "id": "20",
+      "file": "20.html",
+      "titre": "Album Familial B (19)",
+      "html": "<h1>webFuuta/Kompanya/Album Familial B</h1>\n<hr />\n<h2>Tierno S. Bah. 2007</h2>\n    <table background=\"../Resources/button_gradient.png\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n   <tr>\n            <td></td>\n            <td><a href=\"#chap:19\"><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/previous1.png\" alt=\"previous\" /></a></td>\n            <td><img border=\"0\" src=\"/livres/memoriam_album_album_b_album_b_pages/next0.png\" alt=\"next\" /></td>\n            <td></td>\n            <td></td>\n            <td></td>\n            <td width=\"100%\"><strong>Tierno S. Bah. 2007</strong></td>\n        </tr>\n    </table>\n    <p align=\"center\">\n    <img alt=\"Tierno S. Bah. 2007\" src=\"/livres/memoriam_album_album_b_album_b_pages/20.jpg\" border=\"1\" /><br />\n    <span class=\"notes\">Tierno S. Bah. 2007.<br /> Conseiller culturel du film <em>Prince parmi les esclaves</em>.<br /> Photo de l'interview filmée à la Mosquée centrale de Washington, D.C. </span> </p>"
+    }
+  ]
+}

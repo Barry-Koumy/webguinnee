@@ -1,0 +1,16 @@
+.region-back {
+  background: none; border: none; cursor: pointer;
+  color: var(--vert); font-size: 13px; font-weight: 600;
+  padding: 4px 0; margin-bottom: 10px;
+}
+.region-back:hover { text-decoration: underline; }
+
+.region-intro {
+  font-size: 14px; line-height: 1.6;
+  color: var(--texte-clair);
+  background: var(--blanc);
+  border-left: 3px solid var(--vert);
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 20px;
+}

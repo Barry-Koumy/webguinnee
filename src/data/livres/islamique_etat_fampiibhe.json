@@ -1,0 +1,97 @@
+{
+  "slug": "islamique_etat_fampiibhe",
+  "titre": "Almaamiibhe Fuuta-Jaloo",
+  "auteur": "Almaamiibhe Fuuta-Jaloo",
+  "rubrique": "Taariika - Histoire",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [
+    "Almami",
+    "Almaami",
+    "Almamy",
+    "Fouta-Djallon",
+    "Fouta",
+    "Fuuta-Jaloo",
+    "Islam",
+    "theocratie",
+    "theocracy",
+    "Timbo",
+    "Labe",
+    "diiwe",
+    "Fugumba",
+    "Timbi",
+    "Koyin",
+    "Kollaadhe",
+    "Foode-Hajji",
+    "Buriya",
+    "Karamko Alfa",
+    "Almami Sori Mawdho",
+    "Soriya",
+    "Alfaaya"
+  ],
+  "nbChapitres": 10,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "alfa_amadou-index",
+      "file": "alfa_amadou/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les P�res Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Alfa Amadou   —    Karamoko Alfa mo Kollaaɗe</h2>\n    <hr size=\"3\" />\n     \n    <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "alfa_moussa-index",
+      "file": "alfa_moussa/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (2)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pères Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Alfa Moussa Keebali</h2>\n      <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "alfa_sadio-index",
+      "file": "alfa_sadio/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (3)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les P�res Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Alfa Mamadou Sadio Fugumba</h2>\n      <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "alfa_saliou-index",
+      "file": "alfa_saliou/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (4)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pres Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Alfa Saliou Balla Koyin</h2>\n    <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "fampiibhe",
+      "file": "fampiibhe.html",
+      "titre": "Peres-Fondateurs Fuuta-Jaloo",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1>\n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pres Fondateurs — The Founding Fathers</h1>\n    <hr  />\n    <table width=\"400\" border=\"0\" align=\"center\" cellpadding=\"2\" cellspacing=\"2\">\n        <tr>\n            <td  align=\"center\">\n                    <strong>Innde</strong> </td>\n            <td align=\"center\">\n                    <strong>Yettoore</strong> </td>\n            <td align=\"center\">\n                    <strong>Diiwal</strong> </td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:kat-index\">Alfa Ibrahima Sambegu</a></td>\n            <td>Bari</td>\n            <td>Timbo</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:tierno_timbi-index\">Tierno Souleymane</a></td>\n            <td>Bah</td>\n            <td>Timbi</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:alfa_moussa-index\">Alfa Moussa</a></td>\n            <td>Diallo</td>\n            <td>Kebaali</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:alfa_saliou-index\">Thierno Saliou Ballaa</a></td>\n            <td>Balde</td>\n            <td>Koyin</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:alfa_amadou-index\">Alfa Amadou</a></td>\n            <td>Diallo</td>\n            <td>Kollaaɗe</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:tierno_Buriya-index\">Tierno Samba</a></td>\n            <td>Diallo</td>\n            <td>Buriya</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:alfa_sadio-index\">Alfa Mamadou Sadio</a></td>\n            <td>Bari</td>\n            <td>Fugumba</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:kal-index\">Alfa Mamadou Cellou</a></td>\n            <td>Diallo</td>\n            <td>Labe</td>\n        </tr>\n        <tr>\n            <td><a href=\"#chap:fode_hajji-index\">Fode Hajji</a></td>\n            <td>???</td>\n            <td>Foduye-Hajji</td>\n        </tr>\n    </table>\n    <p class=\"notes\">Consulter, entre autres : Louis Tauxier, <a href=\"/livre/tauxier_hpfd\">Talansan</a>,  <a href=\"/livre/tauxier_hpfd\">Tiay</a> ; et <a href=\"/livre/btm_tome1\">Thierno Mamadou Bah</a> </p>\n    <p   class=\"notes\">Ô mânes de <a href=\"#chap:kat-index\">Karamoko Alfa Mo Timbo</a><br />\n    Du Docteur et Prince du Fouta en Allah!<br />\n    Ô mânes de <a href=\"#chap:kal-index\">Karamoko Alfa Mo Labe</a><br />\n    Du Docteur et Prince du Grand Diiwal!<br />\n    Et vous, mânes de tous les <a href=\"/livre/btm_tome1\">Grands Karamokos</a><br />\n    De la <a href=\"/livre/tauxier_hpfd\">Guerre des Flèches</a>.<br />\n    Si l'on vous dit que nous autres Blancs<br />\n    Sommes venus troubler l'esprit de vos montagnes,<br />\n    Déraciner, impies, les souches que vous y avez plantées.<br />\n    Ne croyez point cela.<br />\n    Oui, l'Occident souffle sur votre terre.<br />\n    Mais voyez comment !<br />\n    Que votre paix du Grand Repos ne se trouble point.</p>\n    <p align=\"right\" class=\"notes\"><a href=\"/livre/jrm\">Jacques Richard-Molard</a>, cité par Ousmane Poreko Diallo</p>"
+    },
+    {
+      "id": "fode_hajji-index",
+      "file": "fode_hajji/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (5)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pres Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Fode Hajji mo Foduyee-Hajji</h2>\n    <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "kal-index",
+      "file": "kal/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (6)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pres Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Alfa Mamadou Cellou<br />\n    Karamoko Alfa mo Labe</h2>\n    <hr size=\"3\" />\n    <div align=\"center\"><img src=\"/livres/islamique_etat_fampiibhe/ghaburu_kal.jpg\" alt=\"Ghaburu Karamoko Alfa mo Labe\" width=\"733\" height=\"553\" /><br />\n    <span class=\"notes\">Tombe (Ghaburu) de Alfa Mamadu Sellu Jallo, Karamoko Alfa mo Labe,<br />\n    au Mausolée des Kaliduyaaɓe, flanc sud-est de la <a href=\"/livre/islamique_juulirdhe\">Mosquée de Labé</a>, qu'il fonda au XVIIIe siècle.</span></div>\n    <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "kat-index",
+      "file": "kat/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (7)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pres Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Alfa Ibrahima Sambegu<br />\n    Karamoko Alfa mo Timbo</h2>\n    <hr size=\"3\" />\n    <div align=\"center\"><img src=\"/livres/islamique_etat_fampiibhe/mausolee_tombe_kat.jpg\" alt=\"Mausolee-Tombe Karamoko Alfa mo Timbo\" width=\"743\" height=\"394\" /><br />\n    <span class=\"notes\"><strong>Timbo. Belebon e Ɠaburu Alfa Ibrahima Sambegu<br />\n    Karamoko Alfa mo Timbo</strong>  <br />\n (Mausolée de la Tombe de <strong>Karamoko Alfa</strong> à Timbo)</span></div> \n     s\n    <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "tierno_Buriya-index",
+      "file": "tierno_Buriya/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (8)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pères Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Tierno Samba Ɓuriya</h2>\n    <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    },
+    {
+      "id": "tierno_timbi-index",
+      "file": "tierno_timbi/index.html",
+      "titre": "Almaamiibhe Fuuta-Jaloo (9)",
+      "html": "<h1> webFuuta<br />\n          Taariika</h1> \n<hr  />\n<h1>Fampiiɓe Jihaadi Fuuta Jaloo<br />\n    Les Pères Fondateurs — The Founding Fathers</h1>\n    <hr size=\"3\" />\n    <h2>Tierno Souleymane Timbi</h2>\n    <p class=\"notes\">Sources<br />\n1. <a href=\"/livre/btm_tome1\">Thierno   Mamadou Bah</a><br />\n2. <a href=\"/livre/thierno_diallo_institutions\">Thierno  Diallo</a><br />\n3. <a href=\"/livre/tauxier_hpfd\">Louis Tauxier</a><br />\n4. <a href=\"/livre/harris_kfd\">Joseph Harris </a></p>"
+    }
+  ]
+}

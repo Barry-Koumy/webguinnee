@@ -1,0 +1,38 @@
+{
+  "slug": "shaikou_yaya",
+  "titre": "Qui est Karamoko Alpha Mo Labe",
+  "auteur": "Elhadj Saikou Yaya Diallo",
+  "rubrique": "Taariika",
+  "annee": "",
+  "editeur": "Instituteur principal hors-classe",
+  "resume": "Brochure biographique de Karamoko Alfa mo Labe, co-fondateur de l",
+  "motsCles": [
+    "Karamoko Alfa",
+    "Labe",
+    "Islam",
+    "Fouta-Djallon",
+    "Fuuta-Jaloo",
+    "Fuuta-Jalon",
+    "Etat",
+    "histoire",
+    "politique",
+    "Kalidouyabhe",
+    "clan",
+    "Foulbhe",
+    "Poulli",
+    "Foulah",
+    "Jihad",
+    "guerre",
+    "saint"
+  ],
+  "nbChapitres": 1,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "notes_kaml",
+      "file": "notes_kaml.html",
+      "titre": "Sommaire",
+      "html": "<h2>Qui est Karamoko Alpha Mo Labe ?</h2>\n    <p class=\"soustitre\">Fondation Karamoko Alpha Mo Labe<br />\n    Notes publiées à l'occasion de l'organisation de la première Ziyara<br />\n    Editions Imprima. 8è Avenue. Almamya. 1995. Conakry. 23 pages</p>\n    <hr size=\"3\" />\n    <h2>Sommaire</h2>\n    <ul>\n        <li>Introduction</li>\n        <li>Qui est Karamoko Alpha Mo Labe</li>\n        <li>Son pays</li>\n        <li>Son origine</li>\n        <li>Son enfance</li>\n        <li>Ses frères</li>\n        <li>Ses études supérieures</li>\n        <li>La <i>Jihad</i></li>\n        <li>Son <i>duɗal</i></li>\n        <li>Naissance de la fille aînée</li>\n        <li>Choix d'un site propice pour fonder sa capitale</li>\n        <li>L'organisation de son <i>diiwal</i></li>\n        <li>Le forum des neuf <i>diiwe</i></li>\n        <li>Fougoumba</li>\n        <li>Déclaration de la Guerre sainte <i>(Jihad)</i></li>\n        <li>L'historique Bataille de Talansan</li>\n        <li>La poursuite de la <i>Jihad</i></li>\n        <li>L'armée de Karamoko Alpha Mo Labe</li>\n        <li>La fondation de Labé</li>\n        <li>L'origine du nom Labe</li>\n        <li>La mort de Karamoko Alpha Mo Labe</li>\n        <li>Son mausolée</li>\n        <li>Sa succession</li>\n        <li>La désagrégation du diiwal</li>\n        <li>L'oeuvre de Karamoko Alpha Mo Labe</li>\n        <li>Témoignage</li>\n    </ul>"
+    }
+  ]
+}

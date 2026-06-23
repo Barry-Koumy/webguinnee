@@ -1,0 +1,26 @@
+{
+  "slug": "seerembhe_cerno_abdurahmane_bheynguure",
+  "titre": "T. Abdurahmane Bah",
+  "auteur": "Seerembhe",
+  "rubrique": "Pular",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 2,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "atawullahi",
+      "file": "atawullahi.html",
+      "titre": "Atawullaahi Bah",
+      "html": "<h1>webFuuta<br />\n        Islam / Pular Ajamiyya</h1>\n        <hr />\n<h1> El-Hadj Tierno Abdurahmane Bah<br />\n        Ɓeynguure</h1>\n        <hr size=\"3\" />\n    <p align=\"center\">\n        <img src=\"/livres/seerembhe_cerno_abdurahmane_bheynguure/eaBah.jpg\" alt=\"El-Hadj Ata'ullahi Bah\" width=\"204\" height=\"264\" border=\"1\" /><br />\n         <span class=\"notes\">El-Hadj Ataoullahi Bah (1941-2003) et sa fille aînée</span></p>\n         <p class=\"notes\">Ingénieur électricien, cadre de la Société d'électricité (Enelgui). <br />A sa retraite il devint Imam de la Grande Mosquée Karamoko Alpha de Labé à partir de 2001 jusqu'à sa mort subite en 2003.</p>"
+    },
+    {
+      "id": "rayhanatu",
+      "file": "rayhanatu.html",
+      "titre": "Rayhanatu",
+      "html": "<h1>webFuuta<br />\n        Islam / Pular Ajamiyya </h1>\n        <hr />\n        <h1>\n        El-Hadj Tierno Abdurahmane Bah<br />\n        Ɓeynguure</h1>\n        <hr size=\"3\" />\n\n    <p align=\"center\">\n        <img src=\"/livres/seerembhe_cerno_abdurahmane_bheynguure/raySale.jpg\" alt=\"Hadja Rayhanatu e Hadja Salimatu\" width=\"408\" height=\"321\" border=\"1\" /><br />\n        <span class=\"notes\">Hadja Rayhanatu e Hadja Salimatu</span>\n    </p>"
+    }
+  ]
+}

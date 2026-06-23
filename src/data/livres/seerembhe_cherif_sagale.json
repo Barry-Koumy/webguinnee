@@ -1,0 +1,20 @@
+{
+  "slug": "seerembhe_cherif_sagale",
+  "titre": "sagale",
+  "auteur": "Sous-Prefectures",
+  "rubrique": "Leluma",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 1,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "album_sagale",
+      "file": "album_sagale.html",
+      "titre": "sagale",
+      "html": "<h1>webGuinée<br />\nPréfecture de Leluma<br />\nSous-Préfecture de Sagale </h1>\n\n<hr width=\"100%\" size=\"3\" />\n<table width=\"75%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"3\">\n  <tr>\n    <td align=\"center\" class=\"notes\"><div align=\"center\"><img src=\"/livres/seerembhe_cherif_sagale/cherif_mohamed_abdallah.jpg\" alt=\"Cherif Sagale\" width=\"159\" height=\"230\" border=\"0\" /> <br />\n    Chérif Mohamed Abdallah  </div></td>\n    <td align=\"center\" class=\"notes\"><div align=\"center\"><img src=\"/livres/seerembhe_cherif_sagale/cherif_fils.jpg\" alt=\"Cherif Sagale et Fils\" width=\"269\" height=\"200\" /><br />\n    Chérif Mohamed Abdallah et ses Fils </div></td>\n  </tr>\n  <tr>\n    <td align=\"center\" class=\"notes\"><div align=\"center\"><img src=\"/livres/seerembhe_cherif_sagale/mosque_sagale.jpg\" alt=\"Juulirde Sagale\" width=\"259\" height=\"200\" /><br />\n    Mosquée de Sagale  </div></td>\n    <td align=\"center\" class=\"notes\"><div align=\"center\"><img src=\"/livres/seerembhe_cherif_sagale/mosquee_sagale1.jpg\" alt=\"Tannde Juulirde Sagale\" width=\"259\" height=\"300\" /><br />\n    Cour  de la Mosquée de Sagale </div></td>\n  </tr>\n  <tr>\n    <td align=\"center\" class=\"notes\"><div align=\"center\"><img src=\"/livres/seerembhe_cherif_sagale/sagale_overview.jpg\" alt=\"Panorama Sagale\" width=\"256\" height=\"157\" /><br />\n    Vue panoramique de Sagale</div></td>\n    <td align=\"center\" class=\"notes\"><div align=\"center\"><img src=\"/livres/seerembhe_cherif_sagale/tombeau_cheick.jpg\" alt=\"Tombeau\" width=\"350\" height=\"220\" /><br />\n    Tombeau du Cheick à Sagale</div></td>\n  </tr>\n</table>"
+    }
+  ]
+}

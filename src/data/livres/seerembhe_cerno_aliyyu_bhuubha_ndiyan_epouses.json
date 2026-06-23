@@ -1,0 +1,76 @@
+{
+  "slug": "seerembhe_cerno_aliyyu_bhuubha_ndiyan_epouses",
+  "titre": "Tierno Aliyu Bhuubha Ndiyan",
+  "auteur": "",
+  "rubrique": "Tierno Aliyu Bhuubha Ndiyan",
+  "annee": "",
+  "editeur": "",
+  "resume": "Arbre genealogique de Tierno Aliou Bhuubha Ndiyan, wali de Labe. - Genealogical tree of Tierno Aliyu Bhuubha Ndiyan, wali of Labe. 1850-1927",
+  "motsCles": [],
+  "nbChapitres": 10,
+  "liensExternes": [
+    "http://www.webguine.site/culture/chercheurs/chaikou_balde/index.html"
+  ],
+  "chapitres": [
+    {
+      "id": "dalanda-index",
+      "file": "dalanda/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\r    <hr />\r    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\r    <hr size=\"3\" />\r    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\r Suudu Yumma Dalanda</h2> \r <hr />\r <h3>Enfants de Tierno Aliyu Bhuubha Ndiyan et de Pati Dalanda</h3>\r<ul>\r<li>Aisatu Wargalan\r<ul>\r<li>Ibrahima Gassama</li>\r<li>Ibrahima Pilimini</li>\r<li>Tierno Abdourahmane</li>\r</ul>\r</li>\r<li>Usmani Manda \r<ul>\r<li>Mamadou Manda</li>\r</ul>\r</li>\r</ul>"
+    },
+    {
+      "id": "epouses",
+      "file": "epouses.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (2)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\r    <hr />\r    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\r <hr  />\r <h2> Ses Epouses</h2>\r<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"2\" width=\"500\">\r<caption> </caption>\r<tr>\r<td></td>\r<td></td>\r<td></td>\r</tr>\r<tr>\r<td></td>\r<td></td>\r<td></td>\r</tr>\r<tr>\r<td></td>\r<td></td>\r<td></td>\r</tr>\r</table>"
+    },
+    {
+      "id": "hadiatu-index",
+      "file": "hadiatu/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (3)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\r    <hr />\r    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\r    <hr size=\"3\" />\r    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\r    Suudu Yumma Hadiatu </h2>"
+    },
+    {
+      "id": "kumba_wuuri-index",
+      "file": "kumba_wuuri/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (4)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\n    <hr />\n    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\n    <hr size=\"3\" />\n    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\n Suudu Yumma Dalanda</h2>\n <hr />\n <h3>Fille de Tierno Aliyu Bhuubha Ndiyan et de Pati Kumba Wuuri</h3>\n<ul>\n<li>Kadidiatou Manda</li>\n</ul>"
+    },
+    {
+      "id": "lawratu-index",
+      "file": "lawratu/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (5)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\n    <hr />\n    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\n    <hr size=\"3\" />\n    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\n Yumma Lawratu</h2>\n <hr />"
+    },
+    {
+      "id": "mamudatu-index",
+      "file": "mamudatu/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (6)",
+      "html": "<h1>webFuuta<br />\n        Tierno Aliyu Bhuubha Ndiyan</h1>\n    <hr size=\"3\" />\n <h2>\n        Enfants de Tierno Aliyu Ɓuuɓa Ndiyan et de Yumma Mamudatu </h2>\n\n   <ul>\n<li>Tierno Chaikou </li>\n<li>Tierno Lamine</li>\n</ul>"
+    },
+    {
+      "id": "mariama_fadi-index",
+      "file": "mariama_fadi/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (7)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\r    <hr />\r    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\r    <hr size=\"3\" />\r    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\r Neenan Mariama Fadi</h2>\r <hr />\r <ul>\r <li>Tierno Abdullaahi</li>\r<li>Tierno Habib</li>\r<li>Tierno Abdurahmani</li>\r<li>Tierno Aagibu</li>\r</ul>"
+    },
+    {
+      "id": "mariama_kayes-index",
+      "file": "mariama_kayes/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (8)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\r    <hr />\r    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\r    <hr size=\"3\" />\r    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\r Neenan Mariama Kayes</h2>\r <hr />"
+    },
+    {
+      "id": "mariama_manda-index",
+      "file": "mariama_manda/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (9)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\r    <hr />\r    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\r    <hr size=\"3\" />\r    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\r Neenan Mariama Manda</h2>\r <hr />"
+    },
+    {
+      "id": "safiatu-index",
+      "file": "safiatu/index.html",
+      "titre": "Tierno Aliyu Bhuubha Ndiyan (10)",
+      "html": "<h1>webFuuta / Labe / Islam</h1>\n    <hr />\n    <h1>Tierno Aliyu Bhuubha Ndiyan</h1>\n    <hr size=\"3\" />\n    <h2>Epouses de Tierno Aliyu Bhuubha Ndiyan<br />\n  Neenan Safiatou</h2>\n <hr />\n <h3>Mère adoptive de Kadidiatou Manda </h3>"
+    }
+  ]
+}

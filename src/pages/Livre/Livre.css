@@ -1,0 +1,409 @@
+.p-livre { max-width: 860px; margin: 0 auto; }
+
+/* ── Bandeau fiche ───────────────────────────────────────────── */
+.lv-hero {
+  display: flex;
+  gap: 22px;
+  background: #fff;
+  border: 1px solid var(--beige2);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06);
+}
+.lv-cover {
+  position: relative;
+  flex-shrink: 0;
+  width: 168px;
+}
+.lv-cover img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+}
+.lv-cover-ph {
+  width: 100%;
+  height: 220px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--vert), var(--vert-clair));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 64px;
+}
+.lv-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: var(--or);
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 3px 9px;
+  border-radius: 6px;
+}
+
+.lv-meta { flex: 1; min-width: 0; }
+.lv-author { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+.lv-portrait {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top;
+  border: 2px solid var(--or-clair);
+}
+.lv-author-name {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--vert);
+  text-align: left;
+}
+.lv-author-name:hover { color: var(--or); text-decoration: underline; }
+.lv-edit { font-size: 0.78rem; color: var(--texte-clair); }
+
+.lv-resume { font-size: 0.95rem; line-height: 1.65; color: var(--texte); margin-bottom: 14px; }
+
+.lv-tags { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 16px; }
+.lv-tag {
+  font-size: 0.74rem;
+  padding: 4px 11px;
+  border-radius: 14px;
+  font-weight: 500;
+}
+.lv-tag--region { background: var(--beige); color: var(--vert-moyen); }
+.lv-tag--theme { background: rgba(201, 147, 58, 0.14); color: var(--or); }
+.lv-read-btn { width: 100%; }
+
+/* ── Entités (personnages / lieux) ───────────────────────────── */
+.lv-entities { margin-top: 22px; display: grid; gap: 16px; }
+.lv-ent-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  color: var(--vert);
+  margin-bottom: 10px;
+}
+.lv-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.lv-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: #fff;
+  border: 1px solid var(--beige2);
+  border-radius: 18px;
+  padding: 6px 13px 6px 8px;
+  font-size: 0.85rem;
+  color: var(--texte);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.lv-chip:hover { border-color: var(--or); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); }
+.lv-chip-ic {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--beige);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+}
+
+/* ── Sommaire ────────────────────────────────────────────────── */
+.lv-toc { margin-top: 24px; }
+.lv-toc-list { list-style: none; padding: 0; display: grid; gap: 4px; }
+.lv-toc-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #fff;
+  border: 1px solid var(--beige2);
+  border-radius: 10px;
+  padding: 10px 14px;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s;
+}
+.lv-toc-item:hover { border-color: var(--or-clair); background: var(--ivoire); }
+.lv-toc-item.on { border-color: var(--or); background: rgba(201, 147, 58, 0.08); }
+.lv-toc-num {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  border-radius: 7px;
+  background: var(--vert);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lv-toc-lbl { font-size: 0.9rem; color: var(--texte); flex: 1; }
+.lv-toc-time {
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  color: var(--texte-clair);
+  background: var(--beige);
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+.lv-loading { color: var(--texte-clair); font-size: 0.9rem; padding: 8px 2px; }
+
+/* ── Lecteur ─────────────────────────────────────────────────── */
+.lv-reader {
+  position: relative;
+  margin-top: 26px;
+  background: var(--rd-bg, #fff);
+  color: var(--rd-text, var(--texte));
+  border: 1px solid var(--beige2);
+  border-radius: 16px;
+  padding: 22px 30px 26px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.06);
+  transition: background 0.2s, color 0.2s;
+}
+
+/* Thèmes de couleur de page */
+.lv-theme--ivoire { --rd-bg: #fff; --rd-text: #1a1a1a; --rd-muted: #666; --rd-head: var(--vert); }
+.lv-theme--sepia  { --rd-bg: #f4ecd8; --rd-text: #4b3a26; --rd-muted: #897860; --rd-head: #6b4f2a; }
+.lv-theme--gris   { --rd-bg: #e7ebee; --rd-text: #283238; --rd-muted: #5f6c74; --rd-head: #1a3a2a; }
+.lv-theme--sombre { --rd-bg: #23272e; --rd-text: #d8d4cb; --rd-muted: #9aa0a8; --rd-head: #e8b96a; border-color: #2f343c; }
+
+/* Barre de progression de lecture (sticky en haut du lecteur) */
+.lv-progress {
+  position: sticky;
+  top: 0;
+  height: 3px;
+  background: var(--beige2);
+  border-radius: 3px;
+  margin: -4px -8px 14px;
+  overflow: hidden;
+  z-index: 5;
+}
+.lv-progress span {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--or), var(--or-clair));
+  transition: width 0.1s linear;
+}
+
+.lv-reader-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+.lv-reader-eyebrow {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--or);
+  font-weight: 600;
+}
+.lv-fontctl { display: flex; gap: 4px; }
+.lv-fbtn {
+  border: 1px solid var(--beige2);
+  background: var(--ivoire);
+  color: var(--vert);
+  border-radius: 7px;
+  width: 32px;
+  height: 28px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.lv-fbtn:hover:not(:disabled) { border-color: var(--or); color: var(--or); }
+.lv-fbtn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.lv-reader-title {
+  font-family: 'Playfair Display', serif;
+  color: var(--rd-head, var(--vert));
+  font-size: 1.55rem;
+  border-bottom: 2px solid var(--or);
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+}
+
+/* Contrôles de lecture (couleur + taille) */
+.lv-reader-ctl { display: flex; align-items: center; gap: 14px; }
+.lv-themectl { display: flex; gap: 5px; }
+.lv-swatch {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.12s, box-shadow 0.12s;
+}
+.lv-swatch:hover { transform: scale(1.12); }
+.lv-swatch.on { box-shadow: 0 0 0 2px var(--or); transform: scale(1.12); }
+
+/* Typographie du contenu hérité — mesure de lecture confortable */
+.lv-content {
+  color: var(--rd-text, var(--texte));
+  line-height: 1.85;
+  font-size: 1.02rem;
+  max-width: 68ch;
+  margin: 0 auto;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+.lv-content--s { font-size: 0.92rem; line-height: 1.75; }
+.lv-content--m { font-size: 1.02rem; line-height: 1.85; }
+.lv-content--l { font-size: 1.16rem; line-height: 1.95; }
+/* Lettrine sur le premier paragraphe (sauf en mode poésie) */
+.lv-content:not(.lv-content--poesie) > p:first-of-type::first-letter {
+  float: left;
+  font-family: 'Playfair Display', serif;
+  font-size: 3.1em;
+  line-height: 0.82;
+  padding: 4px 10px 0 0;
+  color: var(--or);
+}
+.lv-content p { margin: 0.85em 0; }
+
+/* Mode poésie : vers préservés, alignés à gauche, langue originale mise en valeur */
+.lv-content--poesie {
+  text-align: left;
+  hyphens: none;
+  max-width: 60ch;
+}
+.lv-content--poesie p {
+  margin: 1.1em 0;
+  padding-left: 1em;
+  border-left: 2px solid color-mix(in srgb, var(--or) 35%, transparent);
+  line-height: 2;
+}
+.lv-content--poesie em {
+  font-style: italic;
+  color: var(--or);
+  font-family: 'Playfair Display', serif;
+}
+.lv-content h2, .lv-content h3 {
+  font-family: 'Playfair Display', serif;
+  color: var(--rd-head, var(--vert));
+  margin: 1.3em 0 0.5em;
+  line-height: 1.3;
+}
+.lv-content h2 { font-size: 1.3rem; }
+.lv-content h3 { font-size: 1.1rem; opacity: 0.92; }
+.lv-content img { max-width: 100%; height: auto; border-radius: 6px; margin: 0.6em 0; }
+.lv-content a { color: var(--or); text-decoration: none; font-weight: 500; }
+.lv-content a:hover { text-decoration: underline; }
+/* Ancien lien interne neutralisé : rendu comme du texte courant */
+.lv-content .lv-deadlink { color: inherit; font-weight: inherit; }
+.lv-content hr { border: none; border-top: 1px solid color-mix(in srgb, var(--rd-muted) 40%, transparent); margin: 1.5em 0; }
+.lv-content table { width: 100%; border-collapse: collapse; margin: 1em 0; font-size: 0.9rem; }
+.lv-content td, .lv-content th { padding: 6px 10px; border: 1px solid color-mix(in srgb, var(--rd-muted) 35%, transparent); }
+.lv-content .notes, .lv-content .note {
+  font-size: 0.85rem;
+  color: var(--rd-muted, var(--texte-clair));
+  border-top: 1px solid color-mix(in srgb, var(--rd-muted) 40%, transparent);
+  padding-top: 0.8em;
+  margin-top: 1.2em;
+}
+.lv-content blockquote {
+  border-left: 3px solid var(--or);
+  padding: 0.4em 1em;
+  background: color-mix(in srgb, var(--rd-text) 6%, transparent);
+  font-style: italic;
+  color: var(--rd-muted, var(--texte-clair));
+  margin: 1em 0;
+}
+
+/* Entités cliquables injectées dans le texte */
+.lv-content .entity {
+  border: none;
+  background: none;
+  padding: 0 1px;
+  font: inherit;
+  cursor: pointer;
+  color: var(--rd-head, var(--vert-moyen));
+  font-weight: 600;
+  border-bottom: 1.5px dotted var(--or);
+  transition: color 0.12s;
+}
+.lv-content .entity:hover { color: var(--or); }
+.lv-content .entity--lieu { color: var(--or); border-bottom-color: var(--or-clair); }
+.lv-content .entity--lieu:hover { color: var(--vert-moyen); }
+
+/* Navigation chapitres */
+.lv-nav {
+  display: flex;
+  gap: 10px;
+  align-items: stretch;
+  margin-top: 28px;
+  padding-top: 18px;
+  border-top: 1px solid var(--beige2);
+}
+.lv-nav-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  background: var(--vert);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: background 0.15s;
+  min-width: 0;
+}
+.lv-nav-btn:last-child { text-align: right; }
+.lv-nav-btn:hover:not(:disabled) { background: var(--vert-moyen); }
+.lv-nav-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+.lv-nav-dir { font-size: 0.82rem; font-weight: 600; }
+.lv-nav-name {
+  font-size: 0.74rem;
+  color: var(--or-clair);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.lv-nav-btn--top {
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  background: var(--beige);
+  color: var(--vert);
+  font-size: 1.1rem;
+  padding: 10px 16px;
+}
+.lv-nav-btn--top:hover:not(:disabled) { background: var(--beige2); }
+
+.lv-back {
+  border: 1px solid var(--beige2);
+  background: #fff;
+  color: var(--vert);
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 7px 16px;
+  border-radius: 18px;
+  cursor: pointer;
+  margin-bottom: 16px;
+  transition: all 0.15s;
+}
+.lv-back:hover { border-color: var(--or); color: var(--or); }
+
+.lv-missing { text-align: center; padding: 50px 20px; color: var(--texte-clair); }
+.lv-missing p { margin-bottom: 18px; }
+
+@media (max-width: 600px) {
+  .lv-hero { flex-direction: column; }
+  .lv-cover { width: 140px; margin: 0 auto; }
+  .lv-reader { padding: 20px 16px; }
+  .lv-nav { flex-wrap: wrap; }
+}

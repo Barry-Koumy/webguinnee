@@ -1,0 +1,41 @@
+{
+  "slug": "colonial_collaboration",
+  "titre": "Almami Aguibou. Soriya",
+  "auteur": "Almami Aguibou. Soriya",
+  "rubrique": "Colonisation française",
+  "annee": "1997",
+  "editeur": "info@webfuuta.site webFuuta . webPulaaku . webAfriqa . webGuinée . Camp Boiro Memorial . BlogGuinée © 1997-2018 Tierno S. Bah. All rights reserved. Archives WebGuinée — Source : webfuuta.site (HTTrack, 2026) — Retour aux archives",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 4,
+  "liensExternes": [
+    "http://www.lecampboiro.net/victimes/barry_diawadou.html",
+    "https://www.lecampboiro.net/victimes/barry_diawadou.html"
+  ],
+  "chapitres": [
+    {
+      "id": "almami-aguibou",
+      "file": "almami-aguibou.html",
+      "titre": "Almami Aguibou. Soriya",
+      "html": "<h1>webFuuta<br />\nColonisation française<br />Almami Aguibou. Soriya</h1>\n<hr />\n<h2>Almaami Aguibou Barry<br /> Branche Soriya (1890-1970)<br />\n<a href=\"/livre/islamique_etat_almaami\">Fils d'Almami Sori Yillili</a><br />\nPère de Diawadou Barry (1920-1969)</h2>\n<br />\n<div align=\"center\"> <img width=\"850\" height=\"1298\" src=\"/livres/colonial_collaboration/almami-aguibou-barry-850.png\" alt=\"almami-aguibou-barry-850\" border=\"1\" /> </div>\n<br />"
+    },
+    {
+      "id": "almami-ibrahima-sori-daara-2",
+      "file": "almami-ibrahima-sori-daara-2.html",
+      "titre": "Almami Ibrahima Sori Daara II. Alfaya",
+      "html": "<h1>webFuuta<br />\nColonisation française</h1>\n<hr />\n<h2>Almami Ibrahima Sori Daara II Alfaya (1897-1978)<br />\nBranche Alfaya, avec résidence  à Mamou imposée par la France en 1909<br />\nNeveu d'<a href=\"/livre/islamique_etat_almaami\">Almami Umaru Bademba</a><br />Père de Mody Oury Barry (1930-1971)</h2>\n<hr /><br />\n<div class=\"creatives\"><img width=\"850\" height=\"1298\" src=\"/livres/colonial_collaboration/almami-ibrahima-sori-dara-2.jpg\" alt=\"almami-ibrahima-sori-dara-2\" border=\"1\" />\n</div>\n<br />"
+    },
+    {
+      "id": "almami-sori-yillili",
+      "file": "almami-sori-yillili.html",
+      "titre": "Almami Sori Yillili. Soriya",
+      "html": "<h1>webFuuta<br />\nCollaboration avec la régime colonial</h1>\n<hr />\n<ul>\n<li><a href=\"/livre/islamique_etat_almaami\">Almami Sori Yillili</a></li>\n<li><a href=\"/livre/islamique_etat_almaami\">Almami Oumar Bademba</a></li>\n<li><a href=\"/livre/thierno_diallo_alfayaya\">Alfa Yaya</a></li>\n<li><a href=\"/livre/pmarty_islam\">Karamoko Dalen</a></li>\n</ul>\n<div align=\"center\"><img width=\"900\" height=\"586\" src=\"/livres/colonial_collaboration/alamami-1905-cavalier.png\" border=\"1\" alt=\"alamami-1905-cavalier\" /><br /><span class=\"soustitre\">Almaami Ibrahima Sori Yillili et son entourage, 1897</span></div>\n<br />\n<div align=\"center\"><img width=\"800\" height=\"1224\" src=\"/livres/colonial_collaboration/almami-1905-epouses.png\" border=\"1\" alt=\"almami-1905-epouses\" /><br /><span class=\"soustitre\">Almaami Abdoul-Ɠadiri et ses épouses, <em>circa</em> 1910</span></div>\n<br />"
+    },
+    {
+      "id": "almami-umar-bademba",
+      "file": "almami-umar-bademba.html",
+      "titre": "Colonisation française",
+      "html": "<h1>webFuuta<br />\nColonisation française/Almami Umaru Bademba. Alfaya</h1>\n<hr />\n\n<div align=\"center\"> <br /><span class=\"soustitre\"> </span></div>\n\n<br />"
+    }
+  ]
+}

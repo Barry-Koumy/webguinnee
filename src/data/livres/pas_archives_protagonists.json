@@ -1,0 +1,20 @@
+{
+  "slug": "pas_archives_protagonists",
+  "titre": "Freedom Protagonists",
+  "auteur": "Prince Among Slaves",
+  "rubrique": "Abdul-Rahman",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 1,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "protagonists",
+      "file": "protagonists.html",
+      "titre": "Freedom Protagonists",
+      "html": "<h1>webFuuta </h1>\n <hr  />\n <h1>Abdul-Rahman. Prince Among Slaves<br />\n   Freedom Protagonists </h1>\n <hr size=\"3\" />\n <table width=\"800\" align=\"center\" cellpadding=\"2\" cellspacing=\"2\">\n   <tr>\n    <td align=\"center\" width=\"390\">\n     <img src=\"/livres/pas_archives_protagonists/0.jpg\" alt=\"0john_quincy_adams\" width=\"240\" height=\"242\" border=\"1\" />\n     <br />\n     <span class=\"notes\">     President John Quincy Adams     </span></td>\n    <td align=\"center\" width=\"390\">\n     <img src=\"/livres/pas_archives_protagonists/1.jpg\" alt=\"2henry_clay\" width=\"151\" height=\"243\" border=\"1\" /> <br />\n     <span class=\"notes\">     Secretary of State Henry Clay<br />\n     </span></td>\n    \n   </tr>\n   <tr>\n    <td align=\"center\" width=\"300\">\n     <img src=\"/livres/pas_archives_protagonists/2.jpg\" alt=\"3gallaudet\" width=\"224\" height=\"243\" border=\"1\" />\n     <br />\n     <span class=\"notes\">     Thomas  Gallaudet</span></td>\n\t<td align=\"center\" width=\"33%\">\n     <img height=\"243\" alt=\"4jjroberts1860\" width=\"193\" src=\"/livres/pas_archives_protagonists/3.jpg\" />\n     <br />\n     <span class=\"notes\"> J.J. Roberts     </span></td>\n   </tr>\n </table>"
+    }
+  ]
+}

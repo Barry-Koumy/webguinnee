@@ -1,0 +1,22 @@
+{
+  "slug": "pas_sparkmedia",
+  "titre": "Prince Among Slaves",
+  "auteur": "Prince Among Slaves",
+  "rubrique": "Abdul-Rahman",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 1,
+  "liensExternes": [
+    "http://www.sparkmedia.org/"
+  ],
+  "chapitres": [
+    {
+      "id": "chart",
+      "file": "chart.html",
+      "titre": "Prince Among Slaves",
+      "html": "<h4 align=\"center\" class=\"titre\">webFuuta<br />\nAbdul-Rahman </h4>\n<hr size=\"3\" />\n<p align=\"center\" class=\"titre\">Prince Among Slaves<br />\nA Spark Media Documentary Film Project </p>\n<hr size=\"3\" />\n<p align=\"center\"><img src=\"/livres/pas_sparkmedia/org_chart.jpg\" alt=\"Org Chart\" width=\"544\" height=\"776\" border=\"1\" /></p>\n\n<hr size=\"3\" />\n<p align=\"center\" class=\"style1\">[ | Hunorde | Bibliography | Abdul-Rahman  | Yaafagol ]</p>\n<hr size=\"3\" />\n<p align=\"center\"> <span class=\"style1\">info@fuuta-jaloo.net<br />\nwebFuuta © 1997-2009. Afriq*Access, Inc.</span> </p>"
+    }
+  ]
+}

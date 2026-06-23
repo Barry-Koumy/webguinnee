@@ -1,0 +1,28 @@
+{
+  "slug": "memoriam_kompanya_kannhe",
+  "titre": "Kadiatu Nyara Bah",
+  "auteur": "Kompanya",
+  "rubrique": "Labe",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 2,
+  "liensExternes": [
+    "http://www.webguine.site/index.html"
+  ],
+  "chapitres": [
+    {
+      "id": "album",
+      "file": "album.html",
+      "titre": "Kadiatu Nyara Bah",
+      "html": "<h1>webFuuta<br />\nLabe<br />\nKompanya</h1>\n<hr size=\"3\" />\n<h2> Kadiatu Nyara Bah </h2>\n<h3>This my album !\n<br /> My parents, my brother, and I. </h3>\n<table border=\"1\" cellspacing=\"15\" cellpadding=\"5\" align=\"center\" bgcolor=\"#33FFFF\">\n<tr align=\"center\" bgcolor=\"#99FFCC\">\n<td>\n<img src=\"/livres/memoriam_kompanya_kannhe/bhe2-DArprt.jpg\" alt=\"\" width=\"220\" height=\"276\" border=\"1\" /></td>\n<td align=\"center\" bgcolor=\"#99FFCC\">\n<img src=\"/livres/memoriam_kompanya_kannhe/men4-OrlndArprt.jpg\" alt=\"\" width=\"320\" height=\"236\" border=\"1\" alt=\"Orlando Airport\" /><br /><font size=\"-1\">Aug. 1998  Disneyworld. Orlando, Florida. </font></td>\n</tr>\n</table>"
+    },
+    {
+      "id": "me",
+      "file": "me.html",
+      "titre": "Kadiatu Nyara Bah (2)",
+      "html": "<h1>webFuuta<br />\n        Labe<br />\n        Kompanya</h1>\n     \n    <hr size=\"3\" />\n   \n        <h2>Kadiatu Nyara Bah</h2>\n \n    <p align=\"center\">\n        Welcome to my home page!<br />\n        Bienvenue à ma toile !<br />\n        Toolii mon ka ɗerol an!</p>\n    \n    <p align=\"center\">\n        <img src=\"/livres/memoriam_kompanya_kannhe/kannhe_020513i.jpg\" width=\"670\" height=\"510\" border=\"1\" alt=\"Kadiatu Nyara Bah\" /> <br />\n         My 13th birthday — Mon 13è anniversaire</p>\n  \n    <h3><a href=\"#chap:album\">My family</a>.</h3>\n    <p>My name is Kadiatu N. Bah. I am from the Fuuta-Jaloo, in the Republic of Guinea. I live with my parents and my brother, who is 10.</p>\n    <h3>My school </h3>\n    <ul type=\"disc\">\n        <li>The Owl School</li>\n        <li>Galway Elementary School</li>\n        <li>Rock Creek International School</li>\n        <li>British School of Washington<br />\n        I am 13 years old. I am in seventh grade. It's a bilingual school, where I learn literature, math, science in both French and English. Twice a week, I have physical education in the gym or outdoor.<br />\n        I also learn how to play the recorder at school. I have many friends. And I have made some new ones. If you would like to write me, here is my email address: kadiatu@fuuta-jaloo.net</li>\n    </ul>\n    <h3>My activities.</h3> \n    <p>Reading, swimming, biking, and piano<br />\n    <b>Reading</b><br />\n    I enjoy reading a lot because I learn lots of things and there's a lot of adventures. I participated in Summer Quest, which is a reading program in all Montgomery County public libraries. My goal was to read 40 books.<br />\n    <b>Swimming</b><br />\n    A couple of years ago, I took swimming lessons with a lifeguard. I learned many movements in the deep end in the swimming pool.<br />\n    <b>Biking</b><br />\n    I have a brand new bike which is a Mt. Royal Free Spirit. I ride it a lot in my neighborhood.<br />\n    <b>Piano</b><br />\n    I'm learning piano at the Langley Park Music Center. I like all kinds of music.</p>"
+    }
+  ]
+}

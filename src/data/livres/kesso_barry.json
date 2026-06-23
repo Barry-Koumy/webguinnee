@@ -1,0 +1,26 @@
+{
+  "slug": "kesso_barry",
+  "titre": "Almami Ibrahima Sori Daara II",
+  "auteur": "Almami Ibrahima Sori Daara II",
+  "rubrique": "Laamu Faransi",
+  "annee": "",
+  "editeur": "",
+  "resume": "",
+  "motsCles": [],
+  "nbChapitres": 2,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "album-index",
+      "file": "album/index.html",
+      "titre": "Almami Ibrahima Sori Daara II",
+      "html": "<h1>webFuuta<br />\nDefte / Taarika</h1>\n<hr />\n<h2>  Kesso Barry-Decoster   </h2>\n <table width=\"500\" border=\"1\" align=\"center\" cellpadding=\"2\" cellspacing=\"5\">\n  <tr>\n    <td  align=\"center\"> <p><img src=\"/livres/kesso_barry/aisori_daara2.jpg\" alt=\"Almami Sori Daara 2\" width=\"452\" height=\"499\" border=\"2\" /><br />\n        Le père, Almami Ibrahima Sori Daara II</p>\n </td>\n    <td  align=\"center\">\n      <p><img src=\"/livres/kesso_barry/almami_cavalerie.jpg\" alt=\"Cavalrie islamique du Fuuta-Jalon\" width=\"467\" height=\"326\" border=\"2\" /><br />\n        Cavalerie du Fuuta-Jaloo islamique</p> </td>\n  </tr>\n  <tr>\n    <td align=\"center\">\n      <p><img src=\"/livres/kesso_barry/kaybonru.jpg\" alt=\"Case royale\" width=\"400\" height=\"350\" border=\"2\" /><br />\n        Case royale</p> </td>\n    <td  align=\"center\">\n      <p><img src=\"/livres/kesso_barry/neene_mariama_jelo_bari.jpg\" alt=\"Neene Djelo\" width=\"550\" height=\"700\" border=\"2\" /><br />\n        La mère de Kesso</p> </td>\n  </tr>\n  <tr>\n    <td  align=\"center\">\n      <p><img src=\"/livres/kesso_barry/bheybhe.jpg\" alt=\"Bheybhe\" width=\"456\" height=\"363\" border=\"2\" /><br />\n        La famille à Mamou</p> </td>\n    <td  align=\"center\">\n      <p><img src=\"/livres/kesso_barry/keso_lapidus1.jpg\" alt=\"Kesso\" width=\"234\" height=\"375\" border=\"2\" /><br />Mannequin, <em>Ted Lapidus</em>, années 196o</p>\n </td>\n  </tr>\n  <tr>\n    <td  align=\"center\">\n      <p><img src=\"/livres/kesso_barry/keso_lapidus0.jpg\" alt=\"Kesso Lapidus 1\" width=\"456\" height=\"503\" border=\"2\" /><br />\n        Revue de mode, <em>Ted Lapidus</em></p> </td>\n    <td align=\"center\">\n      <p><img src=\"/livres/kesso_barry/keso_lapidus2.jpg\" alt=\"Kesso Lapidus 2\" width=\"234\" height=\"456\" border=\"2\" /><br />  Revue de mode</p> </td>\n  </tr>\n  <tr>\n    <td colspan=\"2\" align=\"center\">\n      <p><img src=\"/livres/kesso_barry/keso_plume.jpg\" alt=\"Kesso bindol\" width=\"740\" height=\"921\" border=\"2\" /><br />Kesso, écrivain</p>\n    </td>\n  </tr>\n</table>"
+    },
+    {
+      "id": "dedicace",
+      "file": "dedicace.html",
+      "titre": "Princesse Peule",
+      "html": "<h1>webFuuta<br />\nHistoire &amp; Biographie\n</h1>\n<hr />\n<h1>Kesso Barry-Decoster</h1>\n<hr />\n\n  <p align=\"center\"><img src=\"/livres/kesso_barry/keso.jpg\" alt=\"Kesso Barry\" width=\"400\" height=\"496\" border=\"3\" /> </p>\n  <p align=\"center\">Née à Mamou (Guinée) en 1948. Elle est la fille du dernier Almamy du Fouta-Djalon. <br />\n  Après avoir fréquenté l'école coranique, elle entre à l'école primaire de Mamou vers l'âge de dix ans. En 1961, elle est mise en pension à Conakry et, l'année suivante, elle poursuit son lycée à Dakar. Agée de quinze ans, elle se marie et a deux enfants. Elle quitte alors son mari et divorce. En 1966, elle monte à Paris où elle devient mannequin, se remarie et a un troisième enfant, Sandra, à qui elle dédie son autobiographie.</p>\n<ul>\n  <li><a href=\"#chap:album-index\">Mannequin</a></li>\n  <li>Auteur de <em>Princesse Peule</em>. Paris. Seghers. 1988\n    <ul>\n      <li>« Sandra, c'est à toi que je m'adresse. Il s'agit de ma vie, et je pourrais commencer mon récit par: il était une fois dans le Fouta-Djalon une petite fille qui s'appelait Kesso. Elle était peuhle, musulmane, et princesse de sang promise à un mariage royal. Je poursuivrais un récit où l'étrange et le merveilleux tisseraient une fresque multicolore pour te faire rêver. Mais ma vie n'est pas un conte, même si elle y ressembla le temps d'une enfance. Elle fut un combat que la femme en toi comprendra. »<br />\n  «Kesso par Kesso Barry » raconte l'histoire d'une femme que le destin conduit du Fouta-Djalon aux milieux huppés de la société parisienne; ce livre raconte aussi une tranche d'histoire: la fin d'une époque marquée par le déclin de la noblesse peuhle et l'effritement de la toute-puissance des Almamys ; il raconte enfin la réflexion d'une femme qui porte un regard critique sur son existence.</li>\n    </ul>\n  </li>\n  <li><a href=\"#chap:album-index\">Photos</a><br />\n    </li>\n</ul>"
+    }
+  ]
+}

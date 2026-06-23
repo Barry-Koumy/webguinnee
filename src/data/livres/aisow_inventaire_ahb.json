@@ -1,0 +1,35 @@
+{
+  "slug": "aisow_inventaire_ahb",
+  "titre": "Inventaire du Fonds Amadou Hampâté Bâ",
+  "auteur": "Inventaire du Fonds Amadou Hampâté Bâ",
+  "rubrique": "Alfâ Ibrâhîm Sow",
+  "annee": "1969",
+  "editeur": "répertorié à Abidjan en 1969 Paris. Librairie C. Klinkcsieck. 1970. 83 p.",
+  "resume": "Inventaire du fonds d",
+  "motsCles": [
+    "inventaire",
+    "fonds",
+    "archives personnelles",
+    "manuscrits",
+    "Amadou Hampate Ba",
+    "littérature",
+    "histoire",
+    "linguistique",
+    "religion",
+    "symbolisme",
+    "astrologie",
+    "géomancie",
+    "magie",
+    "ethnologie"
+  ],
+  "nbChapitres": 1,
+  "liensExternes": [],
+  "chapitres": [
+    {
+      "id": "plan",
+      "file": "plan.html",
+      "titre": "Inventaire du Fonds Amadou Hampâté Bâ",
+      "html": "<h2>Plan de l'Inventaire</h2>\n    <ul>\n        <li>Généralités</li>\n        <li style=\"list-style: none\">\n            <ul>\n                <li type=\"circle\">numéros 101 à 199</li>\n            </ul>\n        </li>\n        <li>Littérature\n            <ul>\n                <li type=\"circle\">numéros 201 à 299</li>\n            </ul>\n        </li>\n        <li>Histoire\n            <ul>\n                <li type=\"circle\">numéros 301 à 367</li>\n                <li type=\"circle\">numéros 370-01 à 370-75</li>\n                <li type=\"circle\">numéros 371-01 à 371-58</li>\n            </ul>\n        </li>\n        <li>Linguistique\n            <ul>\n                <li type=\"circle\">numéros 401 à 420</li>\n            </ul>\n        </li>\n        <li>Religion\n            <ul>\n                <li type=\"circle\">numéros 501 à 527</li>\n            </ul>\n        </li>\n        <li>Symbolisme et astrologie\n            <ul>\n                <li type=\"circle\">numéros 601 à 623</li>\n            </ul>\n        </li>\n        <li>Géomancie et magie\n            <ul>\n                <li type=\"circle\">numéros 701 à 714</li>\n            </ul>\n        </li>\n        <li>Ethnologie\n            <ul>\n                <li type=\"circle\">numéros 801 à 865</li>\n            </ul>\n        </li>\n    </ul>"
+    }
+  ]
+}

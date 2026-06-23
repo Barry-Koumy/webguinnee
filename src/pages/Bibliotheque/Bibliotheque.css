@@ -1,0 +1,151 @@
+.p-biblio {
+  .b-tabs {
+    display: flex; gap: 6px;
+    background: var(--beige); border-radius: 12px;
+    padding: 4px; margin-bottom: 22px;
+  }
+  .b-tab {
+    flex: 1; border: none; background: none;
+    padding: 10px 6px; border-radius: 9px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 12px; font-weight: 500;
+    color: var(--texte-clair); cursor: pointer;
+    transition: 0.2s; white-space: nowrap;
+  }
+  .b-tab.on {
+    background: var(--blanc); color: var(--vert);
+    font-weight: 600; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* ── Recherche ───────────────────────────────────────────────── */
+.biblio-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  border: 1px solid var(--beige2);
+  border-radius: 12px;
+  padding: 10px 14px;
+  margin-bottom: 24px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+}
+.biblio-search-ic { font-size: 0.95rem; }
+.biblio-search input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: none;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.95rem;
+  color: var(--texte);
+}
+.biblio-search-clear {
+  border: none;
+  background: var(--beige);
+  color: var(--texte-clair);
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 0.7rem;
+}
+
+/* ── Groupes par rubrique ────────────────────────────────────── */
+.biblio-group { margin-bottom: 28px; }
+.biblio-group-title {
+  font-family: 'Playfair Display', serif;
+  color: var(--vert);
+  font-size: 1.2rem;
+  margin-bottom: 14px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--or);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.biblio-group-n {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--or);
+  padding: 1px 9px;
+  border-radius: 10px;
+}
+
+.biblio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+.biblio-card {
+  display: flex;
+  gap: 12px;
+  text-align: left;
+  background: #fff;
+  border: 1px solid var(--beige2);
+  border-radius: 12px;
+  padding: 12px;
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+}
+.biblio-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--or-clair);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+.biblio-card-cover {
+  position: relative;
+  flex-shrink: 0;
+  width: 56px;
+  height: 76px;
+  border-radius: 7px;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--vert), var(--vert-clair));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.biblio-card-cover img { width: 100%; height: 100%; object-fit: cover; }
+.biblio-card-ic { font-size: 28px; }
+.biblio-card-badge {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(26, 58, 42, 0.85);
+  color: var(--or-clair);
+  font-size: 0.52rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-align: center;
+  padding: 2px 0;
+}
+.biblio-card-body { min-width: 0; display: flex; flex-direction: column; }
+.biblio-card-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--vert);
+  line-height: 1.25;
+  margin-bottom: 4px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.biblio-card-author {
+  font-size: 0.76rem;
+  color: var(--texte-clair);
+  margin-bottom: auto;
+}
+.biblio-card-meta {
+  font-size: 0.72rem;
+  color: var(--or);
+  margin-top: 6px;
+}
+
+.empty { text-align: center; padding: 40px 20px; color: var(--texte-clair); }
+.empty-icon { font-size: 40px; margin-bottom: 10px; }
+.empty h3 { font-family: 'Playfair Display', serif; color: var(--vert); margin-bottom: 6px; }
